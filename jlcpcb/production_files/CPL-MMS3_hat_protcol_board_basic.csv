@@ -1,29 +1,34 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 C1,100nF,C_0603,149.05,-106.2,90.0,top
-C2,100nF,C_0603,161.45,-103.45,-90.0,top
-C3,10uF,C_0603,164.375,-89.075,0.0,top
-C4,10uF,C_0603,157.35,-93.975,90.0,top
-D1,LED,LED_0603_1608Metric,175.35,-101.4,90.0,top
+C2,100nF,C_0603,163.08,-102.9,180.0,top
+C3,10uF,C_0603,166.1,-93.7,0.0,top
+C4,10uF,C_0603,167.1,-98.38,-90.0,top
+D3,Red,D_0603,174.2,-101.3,-90.0,top
 H1,M2.5 Mount,MountingHole_2.7mm_M2.5_DIN965_Pad_TopOnly,82.0,-92.0,0.0,top
 H2,M2.5 mount,MountingHole_2.7mm_M2.5,174.0,-134.0,0.0,top
 H3,M2.5 mount,MountingHole_2.7mm_M2.5,82.0,-134.0,0.0,top
 H4,M2.5 mount,MountingHole_2.7mm_M2.5,174.0,-92.0,0.0,top
 H5,M2.5 mount,MountingHole_2.7mm_M2.5,103.0,-94.0,0.0,top
 H6,M2.5 mount,MountingHole_2.7mm_M2.5,153.0,-94.0,0.0,top
-H7,~,Hole_Tooling_JLCPCB,86.8,-135.55,0.0,top
-H8,~,Hole_Tooling_JLCPCB,176.35,-96.25,0.0,top
-H9,~,Hole_Tooling_JLCPCB,86.45,-90.725,0.0,top
+H7,~,Hole_Tooling_JLCPCB,87.1,-134.0,0.0,top
+H8,~,Hole_Tooling_JLCPCB,168.8,-89.5,0.0,top
+H9,~,Hole_Tooling_JLCPCB,87.6,-89.5,0.0,top
 J1,Chainbus in,PinHeader_2x16_P2.54mm_Vertical_SMD,127.99,-95.538272,270.0,bottom
-J11,Conn_01x04_Pin,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,131.9,-134.23,0.0,top
+J11,Conn_01x04_Pin,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,130.875,-134.23,0.0,top
 J2,Chainbus Out,PinSocket_2x16_P2.54mm_Vertical_SMD,128.0,-95.558272,90.0,top
-J3,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,154.98,-100.0,90.0,top
-J4,Conn_01x04_Pin,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,152.65,-134.505,0.0,top
-J7,Conn_01x06_Pin,JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal,106.8,-134.45,0.0,top
-PN1,~,Part_Num_JLCPCB,171.25,-88.75,0.0,top
-R1,330Ω,R_0402,173.6,-101.1,90.0,top
-R2,10kΩ,R_0402,156.65,-96.5,-90.0,top
-R3,10kΩ,R_0402,157.75,-97.15,-90.0,top
-R4,10kΩ,R_0402,153.5,-103.0,0.0,top
+J3,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,175.9,-110.07,180.0,top
+J4,Conn_01x04_Pin,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,158.0,-134.505,0.0,top
+J7,Conn_01x06_Pin,JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal,101.25,-134.0,0.0,top
+R1,330Ω,R_0402,172.5,-101.09,90.0,top
+R10,10kΩ,R_0402,158.6,-117.2,180.0,top
+R11,10kΩ,R_0402,104.5,-111.2,180.0,top
+R2,10kΩ,R_0402,108.1,-116.0,180.0,top
+R3,10kΩ,R_0402,100.4,-108.8,0.0,top
+R4,10kΩ,R_0402,149.5,-102.3,0.0,top
+R6,10kΩ,R_0402,163.9,-113.8,180.0,top
+R7,10kΩ,R_0402,135.2,-113.1,180.0,top
+R8,10kΩ,R_0402,131.6,-116.1,0.0,top
+R9,10kΩ,R_0402,102.2,-113.6,180.0,top
 U1,SN74CB3Q3384APW,TSSOP-24_4.4x7.8mm_P0.65mm,144.3,-104.2,-90.0,top
-U2,M24C64,SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL,166.0,-100.75,90.0,top
-U3,AMS1117,SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR,162.45,-93.45,0.0,top
+U2,M24C64,SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL,161.28,-106.2,-90.0,top
+U3,AMS1117,SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR,162.125,-97.3,0.0,top
